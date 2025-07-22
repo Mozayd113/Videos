@@ -1,1 +1,9 @@
-{"flavors":{"fdroid":{"apk":"https://f-droid.org/repo/Free.Vids_1004.apk","hash":"20c649668606ea5dc63cc9b2608314b02f0e072b352a7898ab789b72be54fc4a","hash_type":"sha256","version":"0.27.7","version_code":1004},"github":{"stable":{"apk":"https://archive.newpipe.net/fdroid/repo/FreeVids_v0.27.7.apk","hash":"d59111e2de0732fe6635ac2ecb42c57827ee56897222d2c19afe38a5b2a5eb60","hash_type":"sha256","version":"0.27.7","version_code":1004}},"freevids":{"apk":"https://archive.newpipe.net/fdroid/repo/NewPipe_v0.27.7.apk","hash":"d59111e2de0732fe6635ac2ecb42c57827ee56897222d2c19afe38a5b2a5eb60","hash_type":"sha256","version":"0.27.7","version_code":1004}},"stats":{"contributors":928,"forks":3222,"stargazers":34331,"translations":122,"watchers":610}}
+{
+  "flavors": {
+    "freevids": {  // جعله في المستوى المباشر
+      "apk": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.27.7.apk",
+      "version": "0.27.7",
+      "version_code": 1005  // تأكد أنه أكبر من الإصدار الحالي
+    }
+  }
+}
