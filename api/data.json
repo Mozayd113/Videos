@@ -2,7 +2,7 @@
   "flavors": {
     "freevids": {  // جعله في المستوى المباشر
       "apk": "https://archive.newpipe.net/fdroid/repo/NewPipe_v0.27.7.apk",
-      "version": "0.27.7",
+      "version": "0.28.8",
       "version_code": 1005  // تأكد أنه أكبر من الإصدار الحالي
     }
   }
